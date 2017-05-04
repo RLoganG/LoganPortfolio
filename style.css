@@ -70,4 +70,7 @@ img {
 .item { 
     height: 300px;
     width: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
